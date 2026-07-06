@@ -1,6 +1,7 @@
 /**
  *  Java program to use Stack collection.
  */
+
 package com.mycollections;
 
 import java.util.Stack;
